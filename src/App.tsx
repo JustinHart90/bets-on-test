@@ -10,7 +10,7 @@ import {
   IonTabs
 } from '@ionic/react';
 import { IonReactRouter } from '@ionic/react-router';
-import { ellipse, square, triangle, homeOutline, homeSharp, playCircleSharp, listCircleSharp, timeSharp, refreshCircleSharp } from 'ionicons/icons';
+import { homeSharp, playCircleSharp, listCircleSharp, timeSharp, refreshCircleSharp } from 'ionicons/icons';
 import Lobby from './pages-nav/Lobby';
 import Live from './pages-nav/Live';
 import Home from './pages-nav/Home';
